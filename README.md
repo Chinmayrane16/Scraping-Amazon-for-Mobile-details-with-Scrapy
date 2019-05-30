@@ -1,4 +1,4 @@
-# Scraping-Amazon-for-Mobiles-details-with-Scrapy
+# Scraping-Amazon-for-Mobile-details-with-Scrapy
 
 In this repository I have build an Amazon scraper for extracting Mobile details and pricing using a python framework called scrapy.
 I have used Pycharm IDE and I have extracted the following details for 5 pages on the Amazon site.<br>
